@@ -1,4 +1,4 @@
-import tap from "tap";
+import * as tap from "tap";
 import JSONParser from "../../src/jsonparser";
 
 const { test } = tap;
